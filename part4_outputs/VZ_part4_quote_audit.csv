@@ -1,0 +1,41 @@
+source_row,strike,bid,ask,mid,spread,relative_spread,openInterest,prtVolume,retained,exclusion_reason
+3566,25.0,0.0,0.01,0.005,0.01,2.0,0,0,False,zero bid; midpoint below minimum; relative spread above limit
+3568,30.0,0.0,0.53,0.265,0.53,2.0,0,0,False,zero bid; absolute spread above limit; relative spread above limit
+3570,31.0,0.0,0.53,0.265,0.53,2.0,0,0,False,zero bid; absolute spread above limit; relative spread above limit
+3572,32.0,0.0,0.54,0.27,0.54,2.0,0,0,False,zero bid; absolute spread above limit; relative spread above limit
+3574,33.0,0.0,0.54,0.27,0.54,2.0,0,0,False,zero bid; absolute spread above limit; relative spread above limit
+3576,34.0,0.0,0.56,0.28,0.56,2.0,0,0,False,zero bid; absolute spread above limit; relative spread above limit
+3578,35.0,0.0,0.02,0.01,0.02,2.0,1,0,False,zero bid; midpoint below minimum; relative spread above limit
+3580,36.0,0.0,1.05,0.525,1.05,2.0,62,0,False,zero bid; absolute spread above limit; relative spread above limit
+3582,36.5,0.0,0.99,0.495,0.99,2.0,1,0,False,zero bid; absolute spread above limit; relative spread above limit
+3584,37.0,0.0,0.02,0.01,0.02,2.0,97,0,False,zero bid; midpoint below minimum; relative spread above limit
+3586,37.5,0.0,1.27,0.635,1.27,2.0,1,0,False,zero bid; absolute spread above limit; relative spread above limit
+3588,38.0,0.0,0.21,0.105,0.21,2.0,168,0,False,zero bid; relative spread above limit
+3590,38.5,0.0,0.03,0.015,0.03,2.0,38,1,False,zero bid; midpoint below minimum; relative spread above limit
+3592,39.0,0.0,0.4,0.2,0.4,2.0,876,0,False,zero bid; absolute spread above limit; relative spread above limit
+3594,39.5,0.0,0.02,0.01,0.02,2.0,90,0,False,zero bid; midpoint below minimum; relative spread above limit
+3596,40.0,0.0,0.08,0.04,0.08,2.0,778,0,False,zero bid; midpoint below minimum; relative spread above limit
+3598,40.5,0.0,0.02,0.01,0.02,2.0,238,0,False,zero bid; midpoint below minimum; relative spread above limit
+3600,41.0,0.0,0.08,0.04,0.08,2.0,274,2,False,zero bid; midpoint below minimum; relative spread above limit
+3602,41.5,0.0,0.05,0.025,0.05,2.0,5368,1,False,zero bid; midpoint below minimum; relative spread above limit
+3604,42.0,0.01,0.05,0.030000000000000002,0.04,1.3333333333333333,1429,117,False,midpoint below minimum; relative spread above limit
+3606,42.5,0.01,0.32,0.165,0.31,1.8787878787878787,634,78,False,absolute spread above limit; relative spread above limit
+3608,43.0,0.03,0.04,0.035,0.010000000000000002,0.28571428571428575,2838,757,False,midpoint below minimum
+3610,43.5,0.04,0.06,0.05,0.019999999999999997,0.3999999999999999,1084,711,True,
+3612,44.0,0.05,0.08,0.065,0.03,0.4615384615384615,1525,1488,True,
+3614,44.5,0.08,0.12,0.1,0.039999999999999994,0.3999999999999999,642,358,True,
+3616,45.0,0.14,0.17,0.15500000000000003,0.03,0.19354838709677416,630,2065,True,
+3618,45.5,0.23,0.27,0.25,0.04000000000000001,0.16000000000000003,1019,505,True,
+3620,46.0,0.37,0.41,0.39,0.03999999999999998,0.1025641025641025,1080,2281,True,
+3622,46.5,0.57,0.62,0.595,0.050000000000000044,0.08403361344537823,218,1501,True,
+3624,47.0,0.83,0.9,0.865,0.07000000000000006,0.08092485549132955,46,928,True,
+3626,47.5,1.05,1.23,1.1400000000000001,0.17999999999999994,0.1578947368421052,9,184,True,
+3628,48.0,1.56,1.78,1.67,0.21999999999999997,0.13173652694610777,4,187,True,
+3630,48.5,1.84,2.2,2.02,0.3600000000000001,0.17821782178217827,0,15,False,absolute spread above limit
+3632,49.0,2.31,2.57,2.44,0.2599999999999998,0.10655737704918024,0,98,True,
+3634,49.5,2.79,3.05,2.92,0.2599999999999998,0.08904109589041088,0,0,True,
+3636,50.0,3.3,3.6,3.45,0.30000000000000027,0.0869565217391305,0,0,True,
+3638,51.0,4.35,4.6,4.475,0.25,0.0558659217877095,0,2,True,
+3640,52.0,5.3,5.6,5.449999999999999,0.2999999999999998,0.055045871559633,0,0,True,
+3642,53.0,6.3,6.6,6.449999999999999,0.2999999999999998,0.04651162790697672,0,0,True,
+3644,55.0,8.3,8.55,8.425,0.25,0.029673590504451036,0,0,True,
